@@ -22,3 +22,10 @@ My platform of choice is [PyProcessing](https://py.processing.org/). It's basica
 
 ![sky-fi](./sky-fi/sky-fi.gif)
 
+
+
+## Disclosure
+
+All art was made by me.
+
+Copyright © treysmithdev
