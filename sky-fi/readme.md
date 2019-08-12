@@ -1,5 +1,14 @@
 # sky-fi
 
+## Disclaimer
+
+I apparently did not save the latest code...
+
+The code committed is currently the base of what was recorded, however it is a lot different than what is shown below. At somepoint I will get around to recreating it.
+
+But for now, it is what it is...
+
+
 ### Description
 
 This piece I will probably revisit once I get better. However, I was able to accomplish a few things that I had in mind and some I never would have thought of otherwise.
