@@ -28,4 +28,4 @@ My platform of choice is [PyProcessing](https://py.processing.org/). It's basica
 
 All art was made by me.
 
-Copyright © treysmithdev
+Copyright © 2019 treysmithdev
