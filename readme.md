@@ -4,7 +4,7 @@
 
 I've been wanting to get into generative art for a while now. As a musician working full time in the data analytics industry, I've always thought that this would be a good way to combine both logic and creativity. I may dabble in programmatically creating music as well, but for now I am focused on visuals alone. 
 
-At the moment I've been really diggin vaporware art, so I've been tapping the inner cyberpunk in me. However, I don't expect this to be the only type of things I make.
+At the moment I've been really diggin vaporwave art, so I've been tapping the inner cyberpunk in me. However, I don't expect this to be the only type of things I make.
 
 ### Getting Started
 
